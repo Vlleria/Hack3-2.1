@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+}
+
+header{
+    height:25vh;
+    background-color: #93B5C9;
+    position: relative;
+}
+section{
+    height: 25vh;
+    background-color:#AB2849;
+    top:0;
+    position: relative;
+    
+}
+main{
+    position: relative;
+    height: 60vh;
+}
+div{
+    height: 100px;
+    background-color:#AB2849;
+    position: relative;
+    right: 10%;
+    margin: 15px;
+
+}
+footer{
+    background-color:#AB2849;
+    padding: 50px;
+    margin: 15px 15px 0 15px;
+    position: relative;
+    bottom: 0;  
+}
